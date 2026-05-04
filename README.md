@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي عيوني بتسهر في غرامك
+> بذوب في سحرك وبعشق كلامك
+> ونار الشوق بتدفي ليالينا
+> وكل لحظة حب بتجمع أمانينا
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
