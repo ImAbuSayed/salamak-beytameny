@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Salamak Beytameny |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/salamak-beytameny/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Salamak Beytameny](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
